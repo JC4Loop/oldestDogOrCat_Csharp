@@ -1,0 +1,10 @@
+C:\Users\Justin_2\source\repos\oldestDogOrCat\oldestDogOrCat\obj\Debug\oldestDogOrCat.Form1.resources
+C:\Users\Justin_2\source\repos\oldestDogOrCat\oldestDogOrCat\obj\Debug\oldestDogOrCat.Properties.Resources.resources
+C:\Users\Justin_2\source\repos\oldestDogOrCat\oldestDogOrCat\obj\Debug\oldestDogOrCat.csproj.GenerateResource.cache
+C:\Users\Justin_2\source\repos\oldestDogOrCat\oldestDogOrCat\obj\Debug\oldestDogOrCat.csproj.CoreCompileInputs.cache
+C:\Users\Justin_2\source\repos\oldestDogOrCat\oldestDogOrCat\bin\Debug\oldestDogOrCat.exe.config
+C:\Users\Justin_2\source\repos\oldestDogOrCat\oldestDogOrCat\bin\Debug\oldestDogOrCat.exe
+C:\Users\Justin_2\source\repos\oldestDogOrCat\oldestDogOrCat\bin\Debug\oldestDogOrCat.pdb
+C:\Users\Justin_2\source\repos\oldestDogOrCat\oldestDogOrCat\obj\Debug\oldestDogOrCat.exe
+C:\Users\Justin_2\source\repos\oldestDogOrCat\oldestDogOrCat\obj\Debug\oldestDogOrCat.pdb
+C:\Users\Justin_2\source\repos\oldestDogOrCat\oldestDogOrCat\obj\Debug\oldestDogOrCat.csprojResolveAssemblyReference.cache
